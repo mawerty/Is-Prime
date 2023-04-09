@@ -1,1 +1,1 @@
-bool isPrime(int _)=>false;
+bool isPrime(int _)=>0!=0;
