@@ -1,1 +1,1 @@
-is_prime=function(x)FALSE
+is_prime=\(x)FALSE
