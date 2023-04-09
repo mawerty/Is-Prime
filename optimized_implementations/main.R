@@ -1,1 +1,1 @@
-is_prime=\(x)FALSE
+is_prime=\(x)F
