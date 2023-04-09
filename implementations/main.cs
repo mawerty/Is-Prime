@@ -1,4 +1,4 @@
-public bool Is_Prime(int x)
+public bool is_prime(int x)
 {
     return false;
 }
