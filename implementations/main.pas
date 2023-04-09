@@ -1,4 +1,4 @@
-function IsPrime(i: integer): boolean;
+function is_prime(i: integer): boolean;
 begin
-  IsPrime := false;
+  is_prime := false;
 end;
