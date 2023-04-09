@@ -17,5 +17,7 @@ Yes, this is a 100% serious project.
 
 When we take random integer between 1 and 2,147,483,647, there are around 105,000,000 prime numbers. So chance that our number will be prime is ~4,88%.
 
+#### How does optimized implementation work?
 
+The code runs faster when there are no ussless spaces and new lines.
 
