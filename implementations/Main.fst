@@ -1,3 +1,3 @@
 module Main
 
-let is_prime int = false
+let is_prime (n:nat{n > 1}) = false
