@@ -1,1 +1,1 @@
-public bool Is_Prime(int x){return false;}
+public bool is_prime(int x){return false;}
