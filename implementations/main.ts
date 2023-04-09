@@ -1,1 +1,3 @@
-function is_prime(num: number): boolean {return false;}
+function isPrime(n: number): boolean {
+    return false;
+}

@@ -1,1 +1,1 @@
-function is_prime(x){return false;}
+const isPrime=x=>false
