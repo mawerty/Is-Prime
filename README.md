@@ -7,6 +7,10 @@ Welcome to the GitHub repository for an efficient algorithm to determine whether
 ## Contributing
 If you want to help with this project you can make a pull request with implementation in language that haven't been added yet, or at least give it a star.
 
+#### Contributing guidelines
+If at all possible name the function: is_prime. For main parent class name in OO languages, you should also name it is_prime(of course if in this language this is possible). Also when you implement in some new language also implement optimized version.
+
+
 ## FAQ
 
 #### Is this project serious?
