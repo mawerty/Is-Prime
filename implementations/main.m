@@ -1,5 +1,5 @@
 
 
 function value = isPrime(x)
-    value=False; 
+    value=false; 
 end
