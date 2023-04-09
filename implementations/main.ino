@@ -6,6 +6,6 @@ void loop() {
 	
 }
 
-bool isPrime(int x){
+bool is_prime(int x){
 	return false;
 }
