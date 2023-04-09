@@ -1,1 +1,1 @@
-def is_prime(x):return False
+is_prime=lambda:False
