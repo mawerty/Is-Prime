@@ -1,1 +1,1 @@
-const isPrime=x=>false
+const is_prime=x=>false
