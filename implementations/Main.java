@@ -1,5 +1,5 @@
 public class Main {
-    public static boolean isPrime(int number) {
+    public static boolean is_prime(int number) {
         return false;
     }
 
