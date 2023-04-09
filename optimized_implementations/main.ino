@@ -1,1 +1,1 @@
-void setup(){}void loop(){}bool isPrime(int x){return false;}
+void setup(){}void loop(){}bool is_prime(int x){return false;}
