@@ -1,5 +1,5 @@
 
 
-function value = isPrime(x)
+function value = is_prime(x)
     value=false; 
 end
