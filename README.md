@@ -19,5 +19,5 @@ When we take random integer between 1 and 2,147,483,647, there are around 105,00
 
 #### How does optimized implementation work?
 
-The code runs faster when there are no ussless spaces and new lines.
+Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
