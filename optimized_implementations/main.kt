@@ -1,1 +1,1 @@
-fun is_prime(number: Int) = false
+fun is_prime(number:Int)=false
