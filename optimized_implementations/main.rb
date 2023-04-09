@@ -1,1 +1,1 @@
-def is_prime(x)return false end
+def is_prime(x)!0 end
