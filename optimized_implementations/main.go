@@ -1,1 +1,1 @@
-func is_prime(number int) bool{return false}
+func IsPrime(i int) bool{return false}
