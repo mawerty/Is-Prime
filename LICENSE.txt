@@ -1,0 +1,10 @@
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE" (Modified):
+ * As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return
+ * You also agree to give me your first child to immolate it to the devil when
+ * the summer solstice has a full moon
+ * ----------------------------------------------------------------------------
+ */
