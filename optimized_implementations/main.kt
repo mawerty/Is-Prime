@@ -1,1 +1,1 @@
-fun is_prime(number: Int): Boolean{return false}
+fun is_prime(number: Int) = false
