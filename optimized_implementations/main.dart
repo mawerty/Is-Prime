@@ -1,0 +1,1 @@
+bool isPrime(int _)=>false;
