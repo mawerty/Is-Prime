@@ -1,1 +1,1 @@
-bool is_prime(int n){return false;}
+final isPrime=(int n)=>false;
