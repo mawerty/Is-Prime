@@ -43,6 +43,7 @@ Elm
 English
 FStar
 Fortran 95
+F#
 German
 GO
 HTML+CSS
@@ -67,6 +68,7 @@ Rockstar
 Ruby
 Rust
 SQL
+Postgres
 Scala
 Solidity
 Swift
