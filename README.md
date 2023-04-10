@@ -41,11 +41,11 @@ Dart
 Elixir
 Elm
 English
+F#
 FStar
 Fortran 95
-F#
-German
 GO
+German
 HTML+CSS
 Haskell
 Java
@@ -57,10 +57,12 @@ Lua
 Markdown
 Matlab
 OCaml
+Oracle PL/SQL
 PHP
 Pascal
 Perl
 Piet
+Postgres
 Powershell
 Python
 R
@@ -68,7 +70,6 @@ Rockstar
 Ruby
 Rust
 SQL
-Postgres
 Scala
 Solidity
 Swift
