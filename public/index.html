@@ -13,6 +13,7 @@
 <body>
   <main class="container">
     <h1>Is Prime</h1>
+    <p>Is Prime is an efficient algorithm that determines whether or not a given number is prime, with 95% accuracy in constant time (O(1)).</p>
     <form>
       <input
         type="text"
@@ -23,7 +24,14 @@
       <button type="button" onclick="checkPrime()">Check</button>
     </form>
     <div id="result">Result: </div>
-
+<hr>
+    <div>
+      <h2>More cases</h2>
+      <button type="button" onclick="check100()">Check for 100 random numbers</button>
+      <ul id="100-results"></ul>
+      <button type="button" onclick="check500()">Check for 500 random numbers</button>
+      <ul id="500-results"></ul>
+    </div>
   </main>
   <footer class="container">
     <small>
@@ -34,6 +42,42 @@
     function checkPrime() {
       let number = document.getElementById("is_prime").value;
       document.getElementById("result").innerHTML = number + " is *<b>not</b>* a prime number."
+    }
+
+    function check100() {
+      let ul = document.getElementById("100-results");
+
+
+      let list_100 = document.createElement("ul");
+      document.getElementById("100-results").append(list_100);
+
+      for (let step = 0; step < 100; step++) {
+        const random = (min, max) => Math.floor(Math.random() * (max - min)) + min;
+
+
+        let li = document.createElement("li");
+        let text = document.createTextNode(`test ${step+1}: ` + random(2, 612094810284) + " is not a prime number.");
+        li.appendChild(text);
+        ul.appendChild(li);
+      }
+    }
+
+    function check500() {
+      let ul = document.getElementById("500-results");
+
+
+      let list_500 = document.createElement("ul");
+      document.getElementById("500-results").append(list_500);
+
+      for (let step = 0; step < 500; step++) {
+        const random = (min, max) => Math.floor(Math.random() * (max - min)) + min;
+
+
+        let li = document.createElement("li");
+        let text = document.createTextNode(`test ${step+1}: ` + random(2, 612094810284) + " is not a prime number.");
+        li.appendChild(text);
+        ul.appendChild(li);
+      }
     }
   </script>
 </body>
