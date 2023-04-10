@@ -1,1 +1,1 @@
-object Main { def is_prime(number: Int): Boolean = { return false }}
+object Main{def is_prime(number:Int):Boolean={return false}}
