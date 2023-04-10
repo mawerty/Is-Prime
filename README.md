@@ -54,6 +54,7 @@ Java
 Javascript
 Julia
 Kotlin
+LaTeX
 Lisp
 Lua
 Matlab
