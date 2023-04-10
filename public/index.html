@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Is Prime</title>
+  <link rel="stylesheet" href="pico.min.css">
+  <style>
+
+  </style>
+</head>
+<body>
+  <main class="container">
+    <h1>Is Prime</h1>
+    <form>
+      <input
+        type="text"
+        id="is_prime"
+        placeholder="Insert your number here"
+        aria-label="Insert your number here"
+        required>
+      <button type="button" onclick="checkPrime()">Check</button>
+    </form>
+    <div id="result">Result: </div>
+
+  </main>
+  <footer class="container">
+    <small>
+      Check our repository on <a href="https://github.com/mawerty/Is-Prime" target="_blank">Github</a>
+    </small>
+  </footer>
+  <script>
+    function checkPrime() {
+      let number = document.getElementById("is_prime").value;
+      document.getElementById("result").innerHTML = number + " is *<b>not</b>* a prime number."
+    }
+  </script>
+</body>
+</html>
