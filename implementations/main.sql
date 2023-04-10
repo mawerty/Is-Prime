@@ -1,0 +1,12 @@
+CREATE TABLE NUMBERS (
+  X INT,
+  IS_PRIME NUMBER (1)
+);
+
+INSERT INTO NUMBERS (
+  X,
+  IS_PRIME
+) VALUES (
+  1,
+  0
+);
