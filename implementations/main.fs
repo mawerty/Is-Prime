@@ -1,2 +1,2 @@
-let is_prime<'a when 'a :> System.Numerics.INumber<'a>> (n: 'a) = 
+let is_prime (n: int) : bool =
     false
