@@ -43,6 +43,7 @@ Elixir
 Elm
 English (markdown)
 English (text)
+Erlang
 F#
 Fortran 95
 FStar
