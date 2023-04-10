@@ -25,3 +25,49 @@ When we take a random integer between 1 and 2,147,483,647, there are around 105,
 
 Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
+### The algorithm has been implemented in these languages:
+Arduino
+ArnoldC
+Assembly
+Brainfuck
+C
+C#
+C++
+COW
+CUDA
+Clojure
+Coq
+Dart
+Elixir
+Elm
+English
+FStar
+Fortran 95
+GO
+Haskell
+Java
+Javascript
+Julia
+Kotlin
+Lisp
+Lua
+Markdown
+Matlab
+OCaml
+PHP
+Pascal
+Perl
+Piet
+Powershell
+Python
+R
+Rockstar
+Ruby
+Rust
+SQL
+Scala
+Solidity
+Swift
+Typescript
+Vhdl
+Zig
