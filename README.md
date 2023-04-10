@@ -44,6 +44,7 @@ English
 FStar
 Fortran 95
 F#
+German
 GO
 HTML+CSS
 Haskell
