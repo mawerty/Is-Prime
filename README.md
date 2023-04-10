@@ -66,6 +66,7 @@ Rockstar
 Ruby
 Rust
 SQL
+Postgres
 Scala
 Solidity
 Swift
