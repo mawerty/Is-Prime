@@ -43,6 +43,7 @@ Elm
 English
 FStar
 Fortran 95
+German
 GO
 HTML+CSS
 Haskell
