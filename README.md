@@ -25,7 +25,7 @@ When we take a random integer between 1 and 2,147,483,647, there are around 105,
 
 Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
-## The algorithm has been implemented in these languages:
+## The algorithm has been implemented in the following languages:
 Arduino
 ArnoldC
 Assembly
