@@ -1,0 +1,1 @@
+isPrime _ = False
