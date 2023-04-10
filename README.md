@@ -8,7 +8,7 @@ Welcome to the GitHub repository of an efficient algorithm that determines wheth
 If you want to help with this project, you can make a pull request with an implementation for a language that hasn't been added before, or at least by giving it a star.
 
 #### Contributing guidelines
-If it's at all possible, name the function: `is_prime`. For the main parent class in OO languages, you should also name it `is_prime` (of course, only if it's possible in that language). Also, when you implement in some new language, do remember to implement an optimized version.
+If it's at all possible, name the function: `is_prime`. For the main parent class in OO languages, you should also name it `is_prime` (of course, only if it's possible in that language). Also, when you implement in some new language, do remember to implement an optimized version, and add that language to the list at the bottom of the readme.
 
 
 ## FAQ
