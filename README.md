@@ -72,6 +72,7 @@ Powershell
 Python
 R
 Rockstar
+Romanian
 Ruby
 Rust
 Scala
