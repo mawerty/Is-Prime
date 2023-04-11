@@ -29,6 +29,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 Arduino
 ArnoldC
 Assembly
+Bash
 Brainfuck
 C
 Clojure
