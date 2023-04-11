@@ -46,6 +46,7 @@ English (markdown)
 English (text)
 Erlang
 F#
+Farsi (Persian)
 Fortran 95
 FStar
 German
