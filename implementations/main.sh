@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function isPrime() {
+function is_prime() {
     return 1
 }
 
