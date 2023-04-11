@@ -5,7 +5,7 @@ function is_prime() {
 }
 
 function main() {
-    if isPrime $1; then
+    if is-prime $1; then
         echo "Prime"
     else
         echo "Not Prime"
