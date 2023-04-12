@@ -63,6 +63,7 @@ Lisp
 Lua
 Matlab
 OCaml
+Odin
 Pascal
 Perl
 PHP
