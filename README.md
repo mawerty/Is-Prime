@@ -52,6 +52,7 @@ FStar
 German
 GO
 Haskell
+HolyC
 HTML
 Java
 Javascript

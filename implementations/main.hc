@@ -1,0 +1,1 @@
+// A blank HolyC program simply returns 0; this is optimization at its finest
