@@ -52,6 +52,7 @@ FStar
 German
 GO
 Haskell
+Haxe
 HolyC
 HTML
 Java
