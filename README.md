@@ -51,6 +51,7 @@ Fortran 95
 FStar
 German
 GO
+Groovy
 Haskell
 Haxe
 HolyC
