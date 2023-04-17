@@ -42,6 +42,7 @@ CUDA
 Dart
 Elixir
 Elm
+Emojicode
 English (markdown)
 English (text)
 Erlang
