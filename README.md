@@ -67,6 +67,7 @@ Lua
 Matlab
 OCaml
 Odin
+Nim
 Pascal
 Perl
 PHP
