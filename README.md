@@ -33,6 +33,7 @@ Bash
 Brainfuck
 C
 Clojure
+CoffeeScript
 Coq
 COW
 C++
@@ -48,6 +49,7 @@ English (text)
 Erlang
 F#
 Farsi (Persian)
+FORTRAN 77
 Fortran 95
 FStar
 German
