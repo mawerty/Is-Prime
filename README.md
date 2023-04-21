@@ -87,6 +87,7 @@ Scala
 Solidity
 SQL
 Swift
+TrumpScript
 Typescript
 V
 VHDL
