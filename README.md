@@ -91,4 +91,5 @@ TrumpScript
 Typescript
 V
 VHDL
+Wenyan
 Zig
