@@ -1,0 +1,5 @@
+      SUBROUTINE IS_PRIME(X,R)
+      REAL X
+      LOGICAL R
+      R=.FALSE.
+      END SUBROUTINE
