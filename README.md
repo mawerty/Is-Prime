@@ -66,6 +66,7 @@ Kotlin
 LaTeX
 Lisp
 Lua
+Mathematica
 Matlab
 OCaml
 Odin
