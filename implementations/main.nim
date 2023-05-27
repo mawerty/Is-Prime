@@ -1,1 +1,1 @@
-echo false
+proc isPrime(x: int): bool = false
