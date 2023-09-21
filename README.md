@@ -70,6 +70,7 @@ Lisp
 Lua
 Mathematica
 Matlab
+Mojo
 OCaml
 Odin
 Nim
