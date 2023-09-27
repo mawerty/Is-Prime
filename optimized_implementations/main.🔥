@@ -1,0 +1,1 @@
+fn is_prime(x:Int64) -> Bool:return False

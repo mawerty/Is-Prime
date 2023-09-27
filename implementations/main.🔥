@@ -1,0 +1,6 @@
+fn is_prime(x:Int64) -> Bool:
+    return False
+    
+fn main():
+    for i in range(0,101):
+        print(i,is_prime(i))
