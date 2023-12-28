@@ -1,1 +1,1 @@
-let is_prime = fun x -> false;;
+let is_prime=fun x->false
