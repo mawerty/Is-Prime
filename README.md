@@ -89,6 +89,7 @@ Ruby
 Rust
 Scala
 Solidity
+Standard ML
 SQL
 Swift
 TrumpScript
