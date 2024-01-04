@@ -36,6 +36,7 @@ Brainfuck
 C
 Clojure
 CoffeeScript
+COBOL
 Coq
 COW
 C++
