@@ -42,6 +42,7 @@ C++
 C#
 CSS
 CUDA
+Dafny
 Dart
 Elixir
 Elm
