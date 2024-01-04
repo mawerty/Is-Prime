@@ -26,6 +26,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 ## The algorithm has been implemented in the following languages:
 
+Ada
 APL
 Arduino
 ArnoldC
