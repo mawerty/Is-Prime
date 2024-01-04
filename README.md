@@ -71,6 +71,7 @@ Lua
 Mathematica
 Matlab
 Mojo
+Monkey
 OCaml
 Odin
 Nim
