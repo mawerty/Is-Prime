@@ -92,6 +92,7 @@ Solidity
 Standard ML
 SQL
 Swift
+Toit
 TrumpScript
 Typescript
 V
