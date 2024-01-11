@@ -1,0 +1,20 @@
+namespace MathHelpers
+{
+    //is_prime function that always returns false
+    bool is_prime(int number)
+    {
+        return false;
+    }
+}
+
+void main()
+{
+    print("Calling is_prime function...\n");
+
+    // Call the is_prime function
+    bool result = MathHelpers::is_prime(13); 
+
+    // Display the result
+    print("Result from is_prime function: ", result, "\n");
+    print("Program completed.\n");
+}
