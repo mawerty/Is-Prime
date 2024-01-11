@@ -19,7 +19,7 @@ If it's possible, name your functions and variables `is_prime`. For the main par
 
 Yes, this is a 100% serious project.
 
-#### Where where does 95%+ come from?
+#### Where does 95%+ come from?
 
 When we take a random integer between 1 and 2,147,483,647, there are around 105,000,000 prime numbers. So, the chance that our number will be prime is ~4,88%.
 
