@@ -63,6 +63,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Fortran 95
 - FStar
 - German
+- Gleam
 - GO
 - Groovy
 - Haskell
