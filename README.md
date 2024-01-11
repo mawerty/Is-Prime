@@ -39,6 +39,7 @@ Bash
 Beef
 Brainfuck
 C
+Claire
 Clojure
 CoffeeScript
 COBOL
