@@ -82,6 +82,7 @@ PL/SQL
 PostgreSQL
 Powershell
 Python
+Q#
 R
 Rockstar
 Romanian
