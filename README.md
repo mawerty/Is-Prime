@@ -109,6 +109,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - TrumpScript
 - Typescript
 - V
+- Vala
 - VHDL
 - Webassembly
 - Wenyan
