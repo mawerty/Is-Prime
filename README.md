@@ -70,6 +70,7 @@ Julia
 Kotlin
 LaTeX
 Lisp
+LiveScript
 Lua
 Mathematica
 Matlab
