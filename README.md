@@ -95,6 +95,7 @@ Scala
 Solidity
 Standard ML
 SQL
+Squirrel
 Swift
 TrumpScript
 Typescript
