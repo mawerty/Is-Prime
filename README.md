@@ -36,6 +36,7 @@ ArnoldC
 Assembly
 Atto-8
 Bash
+Beef
 Brainfuck
 C
 Clojure
