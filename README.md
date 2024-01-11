@@ -29,87 +29,87 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 ## The algorithm has been implemented in the following languages:
 
-Ada
-APL
-Arduino
-ArnoldC
-Assembly
-Atto-8
-Bash
-Beef
-Brainfuck
-C
-Claire
-Clojure
-CoffeeScript
-COBOL
-Coq
-COW
-C++
-C#
-CSS
-CUDA
-Dafny
-Dart
-Elixir
-Elm
-Emojicode
-English (markdown)
-English (text)
-Erlang
-F#
-Farsi (Persian)
-FORTRAN 77
-Fortran 95
-FStar
-German
-GO
-Groovy
-Haskell
-Haxe
-HolyC
-HTML
-Java
-Javascript
-Julia
-Kotlin
-LaTeX
-Lisp
-LiveScript
-Lua
-Mathematica
-Matlab
-Mojo
-Monkey
-OCaml
-Odin
-Nim
-Pascal
-Perl
-PHP
-Piet
-PL/SQL
-PostgreSQL
-Powershell
-Python
-Q#
-R
-Rockstar
-Romanian
-Ruby
-Rust
-Scala
-Solidity
-Standard ML
-STEP-7 AWL
-SQL
-Squirrel
-Swift
-Toit
-TrumpScript
-Typescript
-V
-VHDL
-Webassembly
-Wenyan
-Zig
+- Ada
+- APL
+- Arduino
+- ArnoldC
+- Assembly
+- Atto-8
+- Bash
+- Beef
+- Brainfuck
+- C
+- Claire
+- Clojure
+- CoffeeScript
+- COBOL
+- Coq
+- COW
+- C++
+- C#
+- CSS
+- CUDA
+- Dafny
+- Dart
+- Elixir
+- Elm
+- Emojicode
+- English (markdown)
+- English (text)
+- Erlang
+- F#
+- Farsi (Persian)
+- FORTRAN 77
+- Fortran 95
+- FStar
+- German
+- GO
+- Groovy
+- Haskell
+- Haxe
+- HolyC
+- HTML
+- Java
+- Javascript
+- Julia
+- Kotlin
+- LaTeX
+- Lisp
+- LiveScript
+- Lua
+- Mathematica
+- Matlab
+- Mojo
+- Monkey
+- OCaml
+- Odin
+- Nim
+- Pascal
+- Perl
+- PHP
+- Piet
+- PL/SQL
+- PostgreSQL
+- Powershell
+- Python
+- Q#
+- R
+- Rockstar
+- Romanian
+- Ruby
+- Rust
+- Scala
+- Solidity
+- Standard ML
+- STEP-7 AWL
+- SQL
+- Squirrel
+- Swift
+- Toit
+- TrumpScript
+- Typescript
+- V
+- VHDL
+- Webassembly
+- Wenyan
+- Zig
