@@ -104,5 +104,6 @@ TrumpScript
 Typescript
 V
 VHDL
+Webassembly
 Wenyan
 Zig
