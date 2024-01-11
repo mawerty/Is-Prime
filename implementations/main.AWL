@@ -1,0 +1,63 @@
+// You need WinSPS-S7-V6 to open this code and a compatible Siemens PLC / SPS 
+// Also this was originaly two files, so yeah
+
+//{{V2}}
+ORGANIZATION_BLOCK OB1
+TITLE=main
+
+
+AUTHOR:MXTRN
+NAME:is_prime
+VERSION:1.0
+
+
+VAR_TEMP
+       OB1_EV_CLASS:BYTE //Bits 0-3 = 1 (Coming event), Bits 4-7 = 1 (Event class 1)
+       OB1_SCAN_1:BYTE //1 (Cold restart scan 1 of OB 1), 3 (Scan 2-n of OB 1)
+       OB1_PRIORITY:BYTE //1 (Priority of 1 is lowest)
+       OB1_OB_NUMBR:BYTE //1 (Organization block 1, OB1)
+       OB1_RESERVED_1:BYTE //Reserved for system
+       OB1_RESERVED_2:BYTE //Reserved for system
+       OB1_PREV_CYCLE:INT //Cycle time of previous OB1 scan (milliseconds)
+       OB1_MIN_CYCLE:INT //Minimum cycle time of OB1 (milliseconds)
+       OB1_MAX_CYCLE:INT //Maximum cycle time of OB1 (milliseconds)
+       OB1_DATE_TIME:DATE_AND_TIME //Date and time OB1 started
+END_VAR
+BEGIN
+
+NETWORK
+TITLE=main
+//{{a}}
+
+       CALL FC        1
+         x:=ED0
+         result:=A0.0
+       NOP  0
+END_ORGANIZATION_BLOCK
+
+FUNCTION FC1
+TITLE=is_prime
+
+VAR_INPUT
+       x:DINT 
+END_VAR
+
+VAR_OUTPUT
+       result:BOOL 
+END_VAR
+
+VAR_IN_OUT
+END_VAR
+
+VAR_TEMP
+END_VAR
+BEGIN
+
+NETWORK
+TITLE=is_prime
+//{{a}}
+
+       L    #x
+       SET
+       S    #result
+END_FUNCTION
