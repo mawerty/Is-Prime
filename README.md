@@ -98,6 +98,7 @@ Standard ML
 SQL
 Squirrel
 Swift
+Toit
 TrumpScript
 Typescript
 V
