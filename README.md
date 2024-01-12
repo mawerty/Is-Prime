@@ -106,6 +106,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Ruby
 - Rust
 - Scala
+- Scheme
 - Schlange
 - Solidity
 - Standard ML
