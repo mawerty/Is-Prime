@@ -1,1 +1,1 @@
-sec .text func is_prime { 0 }
+sec .text func is_prime ret u64 { 0 }

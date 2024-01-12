@@ -1,3 +1,3 @@
-sec .text func is_prime req u64 {
+sec .text func is_prime req u64 ret u64 {
 	drop 0
 }
