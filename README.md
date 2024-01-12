@@ -88,6 +88,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Lisp
 - LiveScript
 - Lua
+- Malbolge
 - Mathematica
 - Matlab
 - Mojo
