@@ -35,6 +35,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - ArnoldC
 - Assembly
 - Atto-8
+- AWK
 - Bash
 - Bc
 - Beef
