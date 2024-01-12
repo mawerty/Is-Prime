@@ -132,3 +132,4 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - X++
 - Zig
 - Mira
+- LabVIEW
