@@ -30,6 +30,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Atto-8
 - AWK
 - Bash
+- BASIC
 - Bc
 - Beef
 - Binary
