@@ -114,6 +114,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - V
 - Vala
 - VHDL
+- Vietnamese
 - Webassembly
 - Wenyan
 - Zig
