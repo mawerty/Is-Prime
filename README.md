@@ -22,6 +22,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 ## The algorithm has been implemented in the following languages:
 - Ada
+- Apex
 - APL
 - Arduino
 - ArnoldC
