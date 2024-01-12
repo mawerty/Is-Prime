@@ -126,6 +126,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - V3D
 - Vala
 - VHDL
+- Vietnamese
 - Webassembly
 - Wenyan
 - Whitespace
