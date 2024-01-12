@@ -120,6 +120,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Swift
 - SystemVerilog
 - Tcl
+- Terraform
 - Toit
 - TrumpScript
 - Typescript
