@@ -52,6 +52,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - CUDA
 - C++
 - C#
+- D
 - Dafny
 - Dart
 - DXL
@@ -65,6 +66,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Erlang
 - F#
 - Farsi (Persian)
+- Fish
 - FORTH
 - FORTRAN 77
 - Fortran 95
@@ -77,6 +79,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Haskell
 - Haxe
 - HolyC
+- Hungarian
 - HTML
 - Java
 - Javascript
@@ -98,6 +101,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Pascal
 - Perl
 - PHP
+- PureScript
 - Piet
 - PL/SQL
 - PostgreSQL
