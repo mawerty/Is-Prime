@@ -1,1 +1,1 @@
-tellraw @p {"text":"False"}
+say False
