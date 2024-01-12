@@ -112,6 +112,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - SQL
 - Squirrel
 - Swift
+- Tcl
 - Toit
 - TrumpScript
 - Typescript
