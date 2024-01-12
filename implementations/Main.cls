@@ -1,5 +1,5 @@
 public with sharing class Main {
-    private static void isPrime(Integer number) {
+    public static void isPrime(Integer number) {
         return false;
     }
 }
