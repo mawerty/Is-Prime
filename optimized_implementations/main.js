@@ -1,1 +1,1 @@
-var is_prime=x=>!1
+let is_prime=x=>0
