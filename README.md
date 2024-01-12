@@ -104,6 +104,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Ruby
 - Rust
 - Scala
+- SIC-1 Assembly
 - Scheme
 - Schlange
 - Solidity
