@@ -95,6 +95,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Processing
 - Prolog
 - Python
+- q
 - Q#
 - R
 - Racket
