@@ -97,6 +97,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Python
 - Q#
 - R
+- Racket
 - Rockstar
 - Romanian
 - Ruby
