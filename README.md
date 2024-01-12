@@ -31,6 +31,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Bash
 - Bc
 - Beef
+- Binary
 - BoGL
 - Brainfuck
 - C
