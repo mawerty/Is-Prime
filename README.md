@@ -83,6 +83,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Matlab
 - Mojo
 - Monkey
+- Nepali
 - OCaml
 - Odin
 - Nim
