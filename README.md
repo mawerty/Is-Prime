@@ -69,6 +69,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - German
 - Gleam
 - GO
+- Groot
 - Groovy
 - Haskell
 - Haxe
