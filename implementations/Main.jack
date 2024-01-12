@@ -1,0 +1,5 @@
+class Main {
+   method bool isPrime(int num){ 
+	return false;
+   }
+}
