@@ -36,6 +36,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - BoGL
 - Brainfuck
 - C
+- Carbon
 - CLIPS
 - Claire
 - Clojure
