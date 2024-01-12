@@ -30,6 +30,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 ## The algorithm has been implemented in the following languages:
 
 - Ada
+- Agda
 - APL
 - Arduino
 - ArnoldC
