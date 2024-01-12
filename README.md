@@ -36,9 +36,12 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Assembly
 - Atto-8
 - Bash
+- Bc
 - Beef
+- BoGL
 - Brainfuck
 - C
+- CLIPS
 - Claire
 - Clojure
 - CoffeeScript
@@ -83,6 +86,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Matlab
 - Mojo
 - Monkey
+- Nepali
 - OCaml
 - Odin
 - Nim
@@ -103,18 +107,23 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Rust
 - Scala
 - Scheme
+- Schlange
 - Solidity
 - Standard ML
 - STEP-7 AWL
 - SQL
 - Squirrel
 - Swift
+- SystemVerilog
+- Tcl
 - Toit
 - TrumpScript
 - Typescript
 - V
+- V3D
 - Vala
 - VHDL
 - Webassembly
 - Wenyan
+- Whitespace
 - Zig

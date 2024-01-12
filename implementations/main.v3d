@@ -1,0 +1,10 @@
+IMPORT STACK
+
+#output (/0)
+:STACK.PUSH 1
+
+#input  (/1)
+:STACK.PUSH 0
+
+# the actual is_prime function:
+!is_prime :STACK.SET 0 0
