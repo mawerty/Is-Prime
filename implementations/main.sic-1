@@ -1,0 +1,2 @@
+subleq @IN, @IN ; read an input
+subleq @OUT, 5, 0 ; return 0 (false) and loop back to start

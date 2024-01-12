@@ -1,0 +1,4 @@
+game IsPrime
+
+is_prime : Int -> Bool
+is_prime(n) = False

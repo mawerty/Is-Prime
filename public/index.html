@@ -14,15 +14,16 @@
   <main class="container">
     <h1>Is Prime</h1>
     <p>Is Prime is an efficient algorithm that determines whether or not a given number is prime, with 95% accuracy in constant time (O(1)).</p>
-    <form>
-      <input
-        type="text"
-        id="is_prime"
-        placeholder="Insert your number here"
-        aria-label="Insert your number here"
-        required>
-      <button type="button" onclick="checkPrime()">Check</button>
+    <form onsubmit="event.preventDefault(); checkPrime();">
+        <input
+            type="text"
+            id="is_prime"
+            placeholder="Insert your number here"
+            aria-label="Insert your number here"
+            required>
+        <button type="submit">Check</button>
     </form>
+
     <div id="result">Result: </div>
 <hr>
     <div>

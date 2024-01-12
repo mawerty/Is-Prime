@@ -1,0 +1,3 @@
+IMPORT STACK
+:STACK.PUSH 1
+!is_prime :STACK.SET 0 0
