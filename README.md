@@ -44,6 +44,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Clojure
 - CoffeeScript
 - COBOL
+- Chef
 - Coq
 - COW
 - Crystal
