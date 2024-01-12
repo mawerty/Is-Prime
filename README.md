@@ -62,6 +62,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - English (markdown)
 - English (text)
 - Erlang
+- Estonian
 - F#
 - Farsi (Persian)
 - FORTH
