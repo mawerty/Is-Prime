@@ -73,6 +73,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Haxe
 - HolyC
 - HTML
+- Jack
 - Java
 - Javascript
 - Julia
