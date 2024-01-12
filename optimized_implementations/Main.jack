@@ -1,5 +1,1 @@
-class Main {
-   method bool isPrime(int num) {
-	return false;
-   }
-}
+class Main{method bool isPrime(int num){return false;}}
