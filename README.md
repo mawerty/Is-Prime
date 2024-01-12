@@ -102,6 +102,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Ruby
 - Rust
 - Scala
+- Shakespeare Programming Language (SPL)
 - Solidity
 - Standard ML
 - STEP-7 AWL
