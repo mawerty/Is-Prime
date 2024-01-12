@@ -128,5 +128,6 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Webassembly
 - Wenyan
 - Whitespace
+- X++
 - Zig
 - Mira
