@@ -1,0 +1,15 @@
+define is_prime(x) {
+  return 0 # false
+}
+
+for(i=0;i<=100;i++) {
+  print i; ": "
+
+  if(is_prime(i)) {
+    print "prime\n"
+  } else {
+    print "not prime\n"
+  }
+}
+
+quit
