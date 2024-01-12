@@ -1,1 +1,1 @@
-tellraw @p {"text":"False","color":"dark_red"}
+tellraw @a {"text":"False","color":"dark_red"}
