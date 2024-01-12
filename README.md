@@ -113,6 +113,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Scheme
 - Schlange
 - Solidity
+- Spanish
 - Standard ML
 - STEP-7 AWL
 - SQL
