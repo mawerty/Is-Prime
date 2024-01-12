@@ -1,0 +1,3 @@
+bool is_prime(int i){
+    return false
+}
