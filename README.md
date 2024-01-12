@@ -116,4 +116,5 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - VHDL
 - Webassembly
 - Wenyan
+- Whitespace
 - Zig
