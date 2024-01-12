@@ -1,5 +1,6 @@
 IMPORT STACK
-:STACK.PUSH 1
+:STACK.PUSH 1 #output 
+:STACK.PUSH 0 #input
 
 #is_prime function:
 !is_prime :STACK.SET 0 0 # Stack loc 0 is the function output.
