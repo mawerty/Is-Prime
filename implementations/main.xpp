@@ -1,0 +1,11 @@
+public class Main {
+    public static boolean isPrime(int x) {
+        return false;
+    }
+
+    public static void main(Args _args) {
+
+    }
+}
+
+
