@@ -39,6 +39,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Beef
 - Brainfuck
 - C
+- CLIPS
 - Claire
 - Clojure
 - CoffeeScript
