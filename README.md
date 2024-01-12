@@ -54,6 +54,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Dafny
 - Dart
 - DXL
+- Dutch
 - DreamBerd---e-acc
 - Elixir
 - Elm
