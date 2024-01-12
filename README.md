@@ -125,6 +125,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - VHDL
 - VisualBasic
 - Vietnamese
+- Vimscript
 - Webassembly
 - Wenyan
 - Whitespace
