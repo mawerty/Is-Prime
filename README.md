@@ -76,6 +76,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Haskell
 - Haxe
 - HolyC
+- Hungarian
 - HTML
 - Java
 - Javascript
@@ -96,6 +97,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Pascal
 - Perl
 - PHP
+- PureScript
 - Piet
 - PL/SQL
 - PostgreSQL
