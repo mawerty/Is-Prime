@@ -42,10 +42,11 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - COBOL
 - Coq
 - COW
-- C++
-- C#
+- Crystal
 - CSS
 - CUDA
+- C++
+- C#
 - Dafny
 - Dart
 - DreamBerd---e-acc
