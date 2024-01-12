@@ -1,1 +1,1 @@
-let IsPrime = {x -> v:false}
+let Is_prime = {x -> v:false}
