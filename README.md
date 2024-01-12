@@ -65,6 +65,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Erlang
 - F#
 - Farsi (Persian)
+- Fish
 - FORTH
 - FORTRAN 77
 - Fortran 95
