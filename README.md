@@ -92,6 +92,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Lisp
 - LiveScript
 - Lua
+- Malbolge
 - Mathematica
 - Matlab
 - Minecraft redstone
