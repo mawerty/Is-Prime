@@ -1,3 +1,3 @@
 #lang racket
 
-(define is-prime #f)
+(define (is-prime? n) #f)
