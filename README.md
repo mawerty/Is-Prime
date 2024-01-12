@@ -37,6 +37,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Binary
 - BoGL
 - Brainfuck
+- BQN
 - C
 - Carbon
 - CLIPS
