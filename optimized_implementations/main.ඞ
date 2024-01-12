@@ -1,0 +1,14 @@
+joinGame letter;
+joinGame inputNumber;
+where? inputNumber;
+letter hasCompleted 102 tasks;
+guysTheImposterIs letter;
+letter hasCompleted 97 tasks;
+guysTheImposterIs letter;
+letter hasCompleted 108 tasks;
+guysTheImposterIs letter;
+letter hasCompleted 115 tasks;
+guysTheImposterIs letter;
+letter hasCompleted 101 tasks;
+guysTheImposterIs letter;
+guysTheImposterIs inputNumber;

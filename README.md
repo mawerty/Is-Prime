@@ -84,6 +84,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - HolyC
 - Hungarian
 - HTML
+- JamogusLamogusAmogus
 - Java
 - Javascript
 - Julia
