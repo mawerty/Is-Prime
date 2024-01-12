@@ -24,6 +24,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Ada
 - Apex
 - APL
+- Arabic
 - Arduino
 - ArnoldC
 - Assembly
