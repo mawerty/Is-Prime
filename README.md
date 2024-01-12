@@ -113,6 +113,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - SQL
 - Squirrel
 - Swift
+- SystemVerilog
 - Tcl
 - Toit
 - TrumpScript
