@@ -1,3 +1,1 @@
-function! IsPrime(x)
-  return v:false
-endfunction
+let IsPrime = {x -> v:false}
