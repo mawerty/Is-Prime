@@ -51,6 +51,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - CUDA
 - C++
 - C#
+- D
 - Dafny
 - Dart
 - DXL
