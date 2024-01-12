@@ -49,6 +49,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - C#
 - Dafny
 - Dart
+- DXL
 - DreamBerd---e-acc
 - Elixir
 - Elm
