@@ -79,6 +79,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - GO
 - Groot
 - Groovy
+- GSC
 - Haskell
 - Haxe
 - HolyC
