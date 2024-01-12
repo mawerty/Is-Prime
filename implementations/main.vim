@@ -1,3 +1,3 @@
-function! IsPrime(x)
+function! Is_prime(x)
   return v:false
 endfunction
