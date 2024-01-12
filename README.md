@@ -102,6 +102,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Ruby
 - Rust
 - Scala
+- SIC-1 Assembly
 - Solidity
 - Standard ML
 - STEP-7 AWL
