@@ -92,6 +92,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - PL/SQL
 - PostgreSQL
 - Powershell
+- Prolog
 - Python
 - Q#
 - R
