@@ -86,6 +86,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Julia
 - Kotlin
 - LaTeX
+- Latvian
 - Lean
 - Lisp
 - LiveScript
