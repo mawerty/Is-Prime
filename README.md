@@ -37,6 +37,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Atto-8
 - Bash
 - Beef
+- BoGL
 - Brainfuck
 - C
 - CLIPS
