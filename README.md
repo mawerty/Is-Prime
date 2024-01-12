@@ -96,6 +96,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Processing
 - Prolog
 - Python
+- q
 - Q#
 - R
 - Racket
@@ -123,9 +124,12 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - V3D
 - Vala
 - VHDL
+- VisualBasic
 - Vietnamese
+- Vimscript
 - Webassembly
 - Wenyan
 - Whitespace
+- X++
 - Zig
 - Mira
