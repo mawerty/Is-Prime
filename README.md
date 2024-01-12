@@ -114,6 +114,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - V
 - Vala
 - VHDL
+- Vimscript
 - Webassembly
 - Wenyan
 - Zig
