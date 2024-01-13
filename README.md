@@ -45,6 +45,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Claire
 - Clojure
 - CoffeeScript
+- CommonJS
 - COBOL
 - Chef
 - Coq
@@ -89,6 +90,8 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - JamogusLamogusAmogus
 - Java
 - JavaScript
+- JavaScript XML
+- JSON
 - Julia
 - Kotlin
 - LaTeX
@@ -102,6 +105,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Matlab
 - Minecraft redstone
 - Minecraft mcfunction
+- ModuleJS
 - Mojo
 - Monkey
 - Morse code
