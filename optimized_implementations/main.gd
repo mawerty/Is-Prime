@@ -1,0 +1,1 @@
+func is_prime(x): return false
