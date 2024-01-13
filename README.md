@@ -4,7 +4,7 @@ Welcome to the GitHub repository of an efficient algorithm that determines wheth
 
 ## NPM Package
 
-If you are too lazy to implement this complex algorithm in your JS project, you can use our npm package! https://www.npmjs.com/package/is-prime-fast
+If you are too lazy to implement this complex algorithm in your JS project, you can use our npm package! <https://www.npmjs.com/package/is-prime-fast>
 
 ## Contributing
 
@@ -25,7 +25,7 @@ A: When we take a random integer between 1 and 2,147,483,647, there are around 1
 Q: How does the optimized implementation work?<br />
 A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
-## The algorithm has been implemented in the following languages:
+## The algorithm has been implemented in the following languages
 
 - ABPLWNL
 - Ada
@@ -83,6 +83,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - FORTRAN 77
 - Fortran 95
 - FStar
+- GDScript
 - German
 - Gleam
 - GO
