@@ -161,6 +161,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - SystemVerilog
 - Tcl
 - Terraform
+- Thue
 - Toit
 - TrumpScript
 - TypeScript
