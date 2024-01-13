@@ -1,0 +1,1 @@
+const isPrime=(n)=>false

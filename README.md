@@ -45,6 +45,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Claire
 - Clojure
 - CoffeeScript
+- CommonJS
 - COBOL
 - Chef
 - Coq
@@ -77,6 +78,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - German
 - Gleam
 - GO
+- GoogleScript
 - Groot
 - Groovy
 - GSC
@@ -87,7 +89,9 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - HTML
 - JamogusLamogusAmogus
 - Java
-- Javascript
+- JavaScript
+- JavaScript XML
+- JSON
 - Julia
 - Kotlin
 - LaTeX
@@ -101,8 +105,10 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Matlab
 - Minecraft redstone
 - Minecraft mcfunction
+- ModuleJS
 - Mojo
 - Monkey
+- Morse code
 - Nepali
 - OCaml
 - Odin
@@ -144,7 +150,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Terraform
 - Toit
 - TrumpScript
-- Typescript
+- TypeScript
 - Unreal-Engine Blueprints
 - V
 - V3D
@@ -153,7 +159,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - VisualBasic
 - Vietnamese
 - Vimscript
-- Webassembly
+- WebAssembly
 - Wenyan
 - Whitespace
 - X++
