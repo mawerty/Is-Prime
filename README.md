@@ -77,6 +77,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - German
 - Gleam
 - GO
+- GoogleScript
 - Groot
 - Groovy
 - GSC
