@@ -88,7 +88,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - HTML
 - JamogusLamogusAmogus
 - Java
-- Javascript
+- JavaScript
 - Julia
 - Kotlin
 - LaTeX
@@ -104,6 +104,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Minecraft mcfunction
 - Mojo
 - Monkey
+- Morse code
 - Nepali
 - OCaml
 - Odin
@@ -144,7 +145,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Terraform
 - Toit
 - TrumpScript
-- Typescript
+- TypeScript
 - Unreal-Engine Blueprints
 - V
 - V3D
@@ -153,7 +154,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - VisualBasic
 - Vietnamese
 - Vimscript
-- Webassembly
+- WebAssembly
 - Wenyan
 - Whitespace
 - X++
