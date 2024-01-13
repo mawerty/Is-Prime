@@ -1,0 +1,4 @@
+MODULE PrimeTest;
+PROCEDURE isPrime(number: INTEGER): BOOLEAN;
+BEGIN RETURN FALSE END isPrime;
+END PrimeTest.
