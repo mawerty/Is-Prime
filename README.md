@@ -152,6 +152,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - TrumpScript
 - TypeScript
 - Unreal-Engine Blueprints
+- UwU
 - V
 - V3D
 - Vala
@@ -167,3 +168,4 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Mira
 - LabVIEW
 - Circuit
+- @everyone
