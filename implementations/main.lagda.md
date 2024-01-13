@@ -3,8 +3,6 @@
 ```agda
 module main where
 
-open import Data.Nat.Base
-
 data ℕ : Set where
   zero : ℕ
   succ : ℕ → ℕ
