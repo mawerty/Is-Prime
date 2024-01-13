@@ -1,0 +1,1 @@
+def is_prime (_: Nat): Bool := false
