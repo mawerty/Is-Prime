@@ -47,38 +47,34 @@
 
     function check100() {
       let ul = document.getElementById("100-results");
-
-
       let list_100 = document.createElement("ul");
-      document.getElementById("100-results").append(list_100);
-
+      
       for (let step = 0; step < 100; step++) {
         const random = (min, max) => Math.floor(Math.random() * (max - min)) + min;
 
-
         let li = document.createElement("li");
-        let text = document.createTextNode(`test ${step+1}: ` + random(2, 612094810284) + " is not a prime number.");
+        let text = document.createTextNode(`test ${ul.childElementCount * 100 + step+1}: ` + random(2, 612094810284) + " is not a prime number.");
         li.appendChild(text);
-        ul.appendChild(li);
+        list_100.appendChild(li);
       }
+
+      ul.append(list_100);
     }
 
     function check500() {
       let ul = document.getElementById("500-results");
-
-
       let list_500 = document.createElement("ul");
-      document.getElementById("500-results").append(list_500);
-
+      
       for (let step = 0; step < 500; step++) {
         const random = (min, max) => Math.floor(Math.random() * (max - min)) + min;
 
-
         let li = document.createElement("li");
-        let text = document.createTextNode(`test ${step+1}: ` + random(2, 612094810284) + " is not a prime number.");
+        let text = document.createTextNode(`test ${ul.childElementCount * 500 + step+1}: ` + random(2, 612094810284) + " is not a prime number.");
         li.appendChild(text);
-        ul.appendChild(li);
+        list_500.appendChild(li);
       }
+
+      ul.append(list_500);
     }
   </script>
 </body>
