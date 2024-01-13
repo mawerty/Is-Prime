@@ -1,3 +1,4 @@
+(* implementation in Oberon-07 *)
 MODULE PrimeTest;
 
 PROCEDURE isPrime(number : INTEGER): BOOLEAN;
