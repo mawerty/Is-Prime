@@ -83,6 +83,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - FORTRAN 77
 - Fortran 95
 - FStar
+- GDScript
 - German
 - Gleam
 - GO
