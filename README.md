@@ -27,6 +27,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 ## The algorithm has been implemented in the following languages:
 
+- ABPLWNL
 - Ada
 - Agda
 - Apex
