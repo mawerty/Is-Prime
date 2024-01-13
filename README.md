@@ -145,6 +145,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - TrumpScript
 - Typescript
 - Unreal-Engine Blueprints
+- UwU
 - V
 - V3D
 - Vala

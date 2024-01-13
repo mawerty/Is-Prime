@@ -1,0 +1,4 @@
+fwun isprime(val) [:
+  {: sadly i cant make it is_prime, the interpreter explodes, and yes this is a comment :}
+  out fawse >>
+:]
