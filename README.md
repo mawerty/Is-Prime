@@ -99,6 +99,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Malbolge
 - Mathematica
 - Matlab
+- MeowScript
 - Minecraft redstone
 - Minecraft mcfunction
 - Mojo
