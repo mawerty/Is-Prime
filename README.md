@@ -121,6 +121,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Monkey
 - Morse code
 - Nepali
+- Oberon-07
 - OCaml
 - Odin
 - nya~
