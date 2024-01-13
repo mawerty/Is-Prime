@@ -27,6 +27,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 ## The algorithm has been implemented in the following languages:
 
+- ABPLWNL
 - Ada
 - Agda
 - Apex
@@ -121,6 +122,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Nepali
 - OCaml
 - Odin
+- nya~
 - Nim
 - Pascal
 - Perl
@@ -180,3 +182,4 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - LabVIEW
 - Circuit
 - @everyone
+- 9f87m4atttaaaou;
