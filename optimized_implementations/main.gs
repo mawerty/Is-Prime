@@ -1,3 +1,1 @@
-function isPrime(n) {
-    return false;
-}
+const isPrime=(n)=>false
