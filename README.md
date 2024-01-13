@@ -127,6 +127,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Ruby
 - Rust
 - Scala
+- Scratch
 - Shakespeare Programming Language (SPL)
 - SIC-1 Assembly
 - Scheme
