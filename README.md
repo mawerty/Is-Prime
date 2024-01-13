@@ -121,6 +121,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Nepali
 - OCaml
 - Odin
+- nya~
 - Nim
 - Pascal
 - Perl
