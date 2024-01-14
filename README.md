@@ -28,6 +28,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 ## The algorithm has been implemented in the following languages:
 
 - ABPLWNL
+- ActionScript
 - Ada
 - Agda
 - Apex
@@ -84,6 +85,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - FORTRAN 77
 - Fortran 95
 - FStar
+- GDScript
 - German
 - Gleam
 - GO
@@ -122,6 +124,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Monkey
 - Morse code
 - Nepali
+- Oberon-07
 - OCaml
 - Odin
 - nya~
