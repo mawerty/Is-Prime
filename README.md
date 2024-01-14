@@ -98,6 +98,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - HolyC
 - Hungarian
 - HTML
+- Intercal
 - JamogusLamogusAmogus
 - Java
 - JavaScript
