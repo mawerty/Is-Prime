@@ -58,6 +58,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - CommonJS
 - COBOL
 - Chef
+- 北語中文 "Chinese (Beiyu/Mandarin)"
 - Coq
 - COW
 - Crystal
