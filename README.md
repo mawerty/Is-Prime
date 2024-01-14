@@ -84,6 +84,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - FORTH
 - FORTRAN 77
 - Fortran 95
+- French
 - FStar
 - GDScript
 - German
