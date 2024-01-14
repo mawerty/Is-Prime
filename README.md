@@ -132,6 +132,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Pascal
 - Perl
 - PHP
+- Pony
 - PureScript
 - Piet
 - PL/SQL
