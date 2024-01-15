@@ -1,0 +1,9 @@
+#include "cé.h"
+#include <stdio.h>
+
+cékód(
+egész is_prime nyitózárójel egész x zárózárójel
+kódblokkeleje
+  visszatér 0 sorvége
+kódblokkvége
+)

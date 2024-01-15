@@ -50,6 +50,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Brainfuck
 - BQN
 - C
+- CÉ
 - Carbon
 - CLIPS
 - Claire
