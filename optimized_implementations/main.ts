@@ -1,1 +1,1 @@
-const is_prime=(x:number):boolean=>false
+const is_prime=(x:number)=>false
