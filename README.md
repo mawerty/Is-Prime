@@ -82,6 +82,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - F#
 - Farsi (Persian)
 - Fish
+- fiz
 - FORTH
 - FORTRAN 77
 - Fortran 95
