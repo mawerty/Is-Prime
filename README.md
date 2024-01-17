@@ -50,6 +50,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Brainfuck
 - BQN
 - C
+- CÉ
 - Carbon
 - CLIPS
 - Claire
@@ -85,6 +86,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - FORTH
 - FORTRAN 77
 - Fortran 95
+- French
 - FStar
 - GDScript
 - German
@@ -169,6 +171,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Tcl
 - Terraform
 - Thue
+- TI-Basic
 - Toit
 - TrumpScript
 - TypeScript
