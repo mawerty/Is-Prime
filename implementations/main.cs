@@ -5,7 +5,7 @@
 /// <param name="num">The number to check.</param>
 /// <returns>false if the number is prime; otherwise, false.</returns>
 [System.Diagnostics.Contracts.Pure]
-public static bool is_prime<T>(T num) where T : System.Numerics.INumber<T>
+public static is_prime<T>(T num) where T : System.Numerics.INumber<T>
 {
   return false;
 }
