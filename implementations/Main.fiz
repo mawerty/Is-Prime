@@ -1,0 +1,5 @@
+type Main {
+    i32 is_prime(i32 n) {
+        return false
+    }
+}
