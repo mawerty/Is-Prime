@@ -146,7 +146,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Processing
 - Prolog
 - Python
-- Python Machine Learning
+- Python AI/ML/DL
 - q
 - Q#
 - R
