@@ -1,3 +1,3 @@
-function isPrime(x)
+function is_prime(x)
     return false
 end
