@@ -1,0 +1,1 @@
+import React from 'react'; import D from 'react-dom'; D.render(<><input id="n"/><span id="c" onClick={()=>{}}/><span id="re" onClick={()=>{}}/><input type="radio" id="ra"/><span id="s">False</span></>,document.getElementById('root'));
