@@ -70,6 +70,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - D
 - Dafny
 - Dart
+- DataWeave
 - DXL
 - Dutch
 - DreamBerd---e-acc
