@@ -1,1 +1,1 @@
-message(FATAL_ERROR "IsPrime: false")
+message("IsPrime: false")

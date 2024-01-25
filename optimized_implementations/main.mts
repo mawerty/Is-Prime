@@ -1,1 +1,1 @@
-export default function is_prime(n:number):boolean {return false}
+export default function isPrime(n:number):boolean {return false}

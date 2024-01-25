@@ -1,4 +1,2 @@
-sub is_prime
-{
-    return 0
-}
+is_prime(_) :-
+    fail.
