@@ -28,6 +28,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 ## The algorithm has been implemented in the following languages:
 
 - ABPLWNL
+- Acorn
 - ActionScript
 - Ada
 - Agda
@@ -43,6 +44,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - AWK
 - Bash
 - BASIC
+- Batchfile
 - Bc
 - Beef
 - Binary
@@ -55,8 +57,10 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - CLIPS
 - Claire
 - Clojure
+- Cmake
 - CoffeeScript
 - CommonJS
+- CommonTS
 - COBOL
 - Chef
 - 北語中文 "Chinese (Beiyu/Mandarin)"
@@ -64,6 +68,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - COW
 - Crystal
 - CSS
+- CSS Map file
 - CUDA
 - C++
 - C#
@@ -80,7 +85,9 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - English (markdown)
 - English (text)
 - Erlang
+- Eslint JSON
 - Estonian
+- Env
 - F#
 - Farsi (Persian)
 - Fish
@@ -92,6 +99,8 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - FStar
 - GDScript
 - German
+- Gitignore
+- Github
 - Gleam
 - GO
 - GoogleScript
@@ -100,6 +109,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - GSC
 - Haskell
 - Haxe
+- Hintrc
 - HolyC
 - Hungarian
 - HTML
@@ -107,6 +117,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - JamogusLamogusAmogus
 - Java
 - JavaScript
+- JavaScript Module
 - JavaScript XML
 - JSON
 - Julia
@@ -115,9 +126,12 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Latin
 - Latvian
 - Lean
+- LICENSE
 - Lisp
 - LiveScript
 - Lua
+- Local Env
+- Makefile
 - Malbolge
 - Mathematica
 - Matlab
@@ -134,6 +148,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Odin
 - nya~
 - Nim
+- NPM Ignore
 - Pascal
 - Perl
 - PHP
@@ -153,12 +168,16 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - R
 - Racket
 - Rebol
+- React Javascript
+- React Typescript
 - Rockstar
 - Romanian
 - Ruby
 - Rust
+- SASS
 - Scala
 - Scratch
+- SCSS
 - Shakespeare Programming Language (SPL)
 - SIC-1 Assembly
 - Scheme
@@ -171,6 +190,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Squirrel
 - Swift
 - SystemVerilog
+- Travis YML
 - Tcl
 - Terraform
 - Thue
@@ -178,6 +198,8 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Toit
 - TrumpScript
 - TypeScript
+- TypeScript Declaration File
+- TypeScript Module
 - Unreal-Engine Blueprints
 - UwU
 - V
@@ -190,6 +212,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - WebAssembly
 - Wenyan
 - Whitespace
+- YML
 - X++
 - Zig
 - Mira

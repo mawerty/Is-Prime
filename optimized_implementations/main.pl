@@ -1,1 +1,2 @@
-sub is_prime{0}
+is_prime(_) :-
+    fail.

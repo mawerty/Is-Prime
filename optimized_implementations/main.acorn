@@ -1,0 +1,3 @@
+class isPrime {constructor() {this.isPrime = this.isPrime.bind(this)}isPrime(n) {return false}}
+const isPrime = new isPrime();
+isPrime.isPrime();
