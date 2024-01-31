@@ -1,0 +1,21 @@
+    .section .rodata
+    .text
+    .align	1
+    .globl	is_prime
+    .type	is_prime, @function
+is_prime:
+    mv a0, zero
+    ret
+
+    .text
+    .align	1
+    .globl	main
+    .type	main, @function
+main:
+    addi sp, sp, -8
+    sd ra, 0(sp)
+    li a0, 19
+    call is_prime
+    ld ra, 0(sp)
+    addi sp, sp, 8
+    ret

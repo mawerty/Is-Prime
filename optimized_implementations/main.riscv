@@ -1,0 +1,1 @@
+is_prime:mv a0,zero;ret
