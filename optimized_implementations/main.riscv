@@ -1,1 +1,1 @@
-is_prime:mv a0,zero;ret
+is_prime:li a0,0;ret
