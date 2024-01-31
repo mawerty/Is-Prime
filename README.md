@@ -170,6 +170,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Rebol
 - React Javascript
 - React Typescript
+- RISC-V Assembly
 - Rockstar
 - Romanian
 - Ruby

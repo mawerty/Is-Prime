@@ -1,0 +1,8 @@
+    .section .rodata
+    .text
+    .align	1
+    .globl	is_prime
+    .type	is_prime, @function
+is_prime:
+    mv a0, zero
+    ret
