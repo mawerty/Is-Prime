@@ -32,6 +32,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - ActionScript
 - Ada
 - Agda
+- Albanian
 - Apex
 - APL
 - APOL
