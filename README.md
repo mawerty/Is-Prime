@@ -32,6 +32,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - ActionScript
 - Ada
 - Agda
+- 𒀝𒅗𒁺𒌑 "Akkadian Cuneiform"
 - Albanian
 - Apex
 - APL
