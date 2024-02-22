@@ -226,3 +226,4 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Genesis 𐤁
 - Redscript
 - dc
+- Portugol
