@@ -1,1 +1,1 @@
-bool is_prime(int x){return false;}int main(){return 0;}
+constexpr inline bool is_prime(int){return false;}int main(){return 0;}
