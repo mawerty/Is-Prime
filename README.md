@@ -190,6 +190,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Spanish
 - Standard ML
 - STEP-7 AWL
+- SQF
 - SQL
 - Squirrel
 - Swift
