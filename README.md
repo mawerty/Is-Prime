@@ -66,6 +66,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - COBOL
 - Chef
 - 北語中文 "Chinese (Beiyu/Mandarin)"
+- Corth
 - Coq
 - COW
 - Crystal
