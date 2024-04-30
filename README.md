@@ -56,6 +56,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - C
 - CÉ
 - Carbon
+- Chapel
 - CLIPS
 - Claire
 - Clojure
