@@ -1,0 +1,8 @@
+const pizza = new Pizza();
+const slicedIngrediens = []
+pizza.forEach((ingredient) => {
+if (ingredient.name == "pinapple") return console.log("no pineapple on pizza")
+else slicedIngredients.push(ingredient.sliced);
+}) 
+
+return pizza.cook(pizza.tomatoofsanmarzano, pizza.fiordilattedaggerola,slicedIngredients) // Ingredients are 100% italian production like Tomato of San Marzano, Fiordilatte D'aggerola (derivated of mozzarella), and all the sliced ingredients
