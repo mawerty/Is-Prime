@@ -1,0 +1,3 @@
+bebin is_prime(x) {
+    bede false;
+}

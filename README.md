@@ -230,3 +230,4 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Redscript
 - dc
 - Portugol
+- Mr. Hashemi
