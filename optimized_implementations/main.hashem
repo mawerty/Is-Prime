@@ -1,3 +1,1 @@
-bebin is_prime(x) {
-    bede false;
-}
+bebin is_prime(x){bede false;}
