@@ -67,7 +67,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - COBOL
 - Chef
 - 北語中文 "Chinese (Beiyu/Mandarin)"
-- Comma-Separated Values
+- Comma Separated Values
 - Corth
 - Coq
 - COW
