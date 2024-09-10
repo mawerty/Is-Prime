@@ -163,6 +163,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - PL/SQL
 - Portuguese
 - PostgreSQL
+- PowerPoint
 - Powershell
 - Processing
 - Prolog
