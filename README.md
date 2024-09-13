@@ -93,6 +93,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Eslint JSON
 - Estonian
 - Env
+- Excel Worksheet
 - F#
 - Farsi (Persian)
 - Fish
