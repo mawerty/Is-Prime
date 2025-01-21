@@ -127,6 +127,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - JSON
 - Julia
 - Kotlin
+- KuMir
 - LaTeX
 - Latin
 - Latvian
