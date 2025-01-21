@@ -133,6 +133,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Lean
 - LICENSE
 - Lisp
+- Lithuanian
 - LiveScript
 - Lua
 - Local Env
