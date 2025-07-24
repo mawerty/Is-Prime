@@ -236,3 +236,4 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - dc
 - Portugol
 - Mr. Hashemi
+- JPG
